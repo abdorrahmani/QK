@@ -101,5 +101,5 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 
 ### ⚡ References
 - [BB84 Protocol on Wikipedia](https://en.wikipedia.org/wiki/BB84)
-- [Quantum Key Distribution](https://www.ibm.com/quantum-computing/learn/what-is-quantum-key-distribution/)
+- [Quantum Key Distribution](https://www.ibm.com/think/topics/quantum-cryptography)
 
